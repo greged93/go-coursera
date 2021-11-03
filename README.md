@@ -1,4 +1,4 @@
 # go-coursera
-Assessments of the Go coursera class
+Assignments of the Go coursera class
 
-This is the assessments done for the coursera go class.
+This is the assignments done for the coursera go class.
